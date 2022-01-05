@@ -1,0 +1,3 @@
+## Bootstrap probabilistic reasoning (Experimental)
+
+For the bootstrapping approach, the averaged network sometimes does not hold directed acyclic assumptions, and the probabilistic reasoning cannot be performed. The bootReason function is implemented that performs probabilistic reasoning for each bootstrap replicate and return the mean of events, as well as difference in mean from the control level.
